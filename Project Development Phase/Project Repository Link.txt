@@ -1,7 +1,11 @@
-Frontend Repository Link
+Frontend Repository Link:
 
 https://github.com/AnishJ3/Eye-Disease-Prediction-Frontend
 
-Backend Repository Link
+Backend Repository Link:
 
 https://github.com/AnishJ3/Eye-Disease-Prediction-Backend
+
+Deployment Link:
+
+https://eye-disease-prediction-frontend-c2ei.vercel.app/
